@@ -54,7 +54,7 @@ body {
       }
 
       &__list {
-        height: 50vh;
+        max-height: 50vh;
         overflow: auto;
         list-style: none;
         margin: 0;
